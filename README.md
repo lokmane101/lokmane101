@@ -4,20 +4,6 @@ I'm a fourth-year Data Engineering student with a passion for computer science a
 
 ## About Me
 
-🎓 **Education**: Data Engineering student
-
-💡 **Passion**: Turning data into impactful solutions
-
-🚀 **Goal**: Gain hands-on experience in the data field
-
-## Skills & Interests
-
-- **Programming**: Python, SQL, R
-- **Data Tools**: Hadoop, Spark, Tableau
-- **Mindset**: Innovative, problem-solver, team player
-
-## More About Me
-
 - 🔭 I’m currently working on a Big Data project.
 - 🌱 I’m currently learning  data visualization.
 - 🤔 I’m looking for help with µ finding a summer internship in data engineering/science/analytics.
