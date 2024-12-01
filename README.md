@@ -1,6 +1,6 @@
 # Hey there! 👋
 
-I'm a fourth-year Data Engineering student with a passion for computer science and all things data. I'm currently on the lookout for a summer internship in data engineering, science, or analytics. Ready to dive into real-world challenges and contribute to innovative projects!
+I'm a fifth-year Data Engineering student with a passion for computer science and all things data. I'm currently on the lookout for a summer internship in data engineering, science, or analytics. Ready to dive into real-world challenges and contribute to innovative projects!
 
 ## About Me
 
