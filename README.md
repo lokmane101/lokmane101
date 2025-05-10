@@ -36,62 +36,110 @@ I’m Lokmane, a data & software engineer on a mission to turn siloed city parki
 
 ---
 
-## 💻 Tech Stack
+<h3 align="left">Languages and Tools:</h3>
+<div align="left" style="display: flex; flex-wrap: wrap; gap: 16px; align-items: center;">
 
-<div align="center">
-
-### 🗄️ Databases  
-<p>
-  <img src="./icons/mysql.png"     alt="MySQL"      width="40" height="40" style="margin: 0 15px;" />  
-  <img src="./icons/postgres.png"  alt="PostgreSQL" width="40" height="40" style="margin: 0 15px;" />  
-  <img src="./icons/mongodb.png"   alt="MongoDB"    width="40" height="40" style="margin: 0 15px;" />  
-  <img src="./icons/oracle.png"    alt="Oracle"     width="40" height="40" style="margin: 0 15px;" />  
-  <img src="./icons/sqlserver.png" alt="SQL Server" width="40" height="40" style="margin: 0 15px;" />  
-</p>
-
-### 🐳 Containerization & Orchestration  
-<p>
-  <img src="./icons/docker.png"     alt="Docker"     width="40" height="40" style="margin: 0 15px;" />  
-  <img src="./icons/kubernetes.png" alt="Kubernetes" width="40" height="40" style="margin: 0 15px;" />  
-</p>
-
-### ⚙️ Streaming & CDC  
-<p>
-  <img src="./icons/kafka.png"      alt="Kafka"      width="40" height="40" style="margin: 0 15px;" />  
-  <img src="./icons/debezium.png"   alt="Debezium"   width="40" height="40" style="margin: 0 15px;" />  
-</p>
-
-### 🛠️ Data Processing  
-<p>
-  <img src="./icons/spark.png"      alt="Apache Spark" width="40" height="40" style="margin: 0 15px;" />  
-  <img src="./icons/hadoop.png"     alt="Hadoop"       width="40" height="40" style="margin: 0 15px;" />  
-</p>
-
-### 📊 BI & Analytics  
-<p>
-  <img src="./icons/powerbi.png"    alt="Power BI"     width="40" height="40" style="margin: 0 15px;" />  
-  <img src="./icons/metabase.png"   alt="Metabase"     width="40" height="40" style="margin: 0 15px;" />  
-</p>
-
-### 🔧 Languages & Frameworks  
-<p>
-  <img src="./icons/python.png"     alt="Python"       width="40" height="40" style="margin: 0 15px;" />  
-  <img src="./icons/fastapi.png"    alt="FastAPI"      width="40" height="40" style="margin: 0 15px;" />  
-  <img src="./icons/java.png"       alt="Java"         width="40" height="40" style="margin: 0 15px;" />  
-</p>
-
-### ☁️ Cloud & DevOps  
-<p>
-  <img src="./icons/azure.png"          alt="Azure"          width="40" height="40" style="margin: 0 15px;" />  
-  <img src="./icons/azure_devops.png"   alt="Azure DevOps"   width="40" height="40" style="margin: 0 15px;" />  
-  <img src="./icons/digitalocean.png"   alt="DigitalOcean"   width="40" height="40" style="margin: 0 15px;" />  
-  <img src="./icons/airflow.png"        alt="Airflow"        width="40" height="40" style="margin: 0 15px;" />  
-  <img src="./icons/github-actions.png" alt="GitHub Actions" width="40" height="40" style="margin: 0 15px;" />  
-  <img src="./icons/terraform.png"      alt="Terraform"      width="40" height="40" style="margin: 0 15px;" />  
-</p>
+  <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" style="height:40px;" />
+  </a>
+  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" style="height:40px;" />
+  </a>
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" style="height:40px;" />
+  </a>
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" style="height:40px;" />
+  </a>
+  <a href="https://cassandra.apache.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="cassandra" style="height:40px;" />
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" style="height:40px;" />
+  </a>
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" style="height:40px;" />
+  </a>
+  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" style="height:40px;" />
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" style="height:40px;" />
+  </a>
+  <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" style="height:40px;" />
+  </a>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" style="height:40px;" />
+  </a>
+  <a href="https://www.java.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" style="height:40px;" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" style="height:40px;" />
+  </a>
+  <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" style="height:40px;" />
+  </a>
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" style="height:40px;" />
+  </a>
+  <a href="https://mariadb.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" style="height:40px;" />
+  </a>
+  <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" style="height:40px;" />
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" style="height:40px;" />
+  </a>
+  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
+    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" style="height:40px;" />
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" style="height:40px;" />
+  </a>
+  <a href="https://opencv.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" style="height:40px;" />
+  </a>
+  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" style="height:40px;" />
+  </a>
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" style="height:40px;" />
+  </a>
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" style="height:40px;" />
+  </a>
+  <a href="https://postman.com" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" style="height:40px;" />
+  </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" style="height:40px;" />
+  </a>
+  <a href="https://redis.io" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" style="height:40px;" />
+  </a>
+  <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" style="height:40px;" />
+  </a>
+  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" style="height:40px;" />
+  </a>
+  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
+    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" style="height:40px;" />
+  </a>
+  <a href="https://spring.io/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" style="height:40px;" />
+  </a>
+  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" style="height:40px;" />
+  </a>
+  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" style="height:40px;" />
+  </a>
 
 </div>
-
 
 
 ---
