@@ -76,7 +76,8 @@ I’m Lokmane, a data & software engineer on a mission to turn siloed city parki
 <p>
   <img src="./icons/python.png"       alt="Python"       width="40" height="40" />  
   <img src="./icons/fastapi.png"      alt="FastAPI"      width="40" height="40" />  
-  <img src="./icons/java.png"         alt="Java"         width="40" height="40" />  
+  <img src="./icons/java.png"         alt="Java"         width="40" height="40" />
+  <img src="./icons/springboot.png"         alt="Java"         width="40" height="40" />  
 </p>
 
 ### ☁️ Cloud & DevOps  
