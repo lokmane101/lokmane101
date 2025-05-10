@@ -121,4 +121,5 @@ I'm always up for a chat—whether it's a challenging Kafka puzzle or sharing id
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=lokmaneakkouh&style=flat-square&color=blue" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=lokmaneakkouh&style=flat-square&color=blue" alt="profile views" />
 </div>
