@@ -17,24 +17,22 @@
 
 ### 👨‍💻 About Me
 
-I'm a final-year Data Engineering and Data Science student at ENSA Al Hoceima, passionate about transforming complex data into strategic insights. I thrive on building robust data infrastructures, architecting scalable software solutions, and exploring the frontiers of generative AI. Currently, I'm diving deep into real-time data processing as an intern at **STM (Tanger-Tétouan)**, where I'm engineering the backbone for a live parking network using Kafka and Debezium.
+I'm a final-year Data Engineering and Data Science student at ENSA Al Hoceima, passionate about transforming complex data into strategic insights. I thrive on building robust data infrastructures and architecting scalable software solutions. Currently interning at **STM (Tanger-Tétouan)**, I'm engineering the backbone for a real-time parking network using Kafka and Debezium.
 
-When I'm not wrangling data or coding, you might find me debugging Airflow DAGs for fun or perfecting my homemade Moroccan mint ATAY 🍵.
+Outside of data wrangling, I enjoy debugging Airflow DAGs and perfecting my homemade Moroccan mint ATAY 🍵.
 
 ---
 
 ### 🚀 Current Focus & What I'm Working On
 
-* **Real-Time Parking Grid @ STM:** Building Change Data Capture (CDC) pipelines with Kafka & Debezium, feeding into a central PostgreSQL database. The goal? Turning siloed city parking data into live, actionable insights.
-* **Web App & API Development:** Crafting a FastAPI backend for the parking project (React frontend is on the horizon!).
-* **ETL & Analytics Orchestration:** Designing and implementing Airflow DAGs to load data into a warehouse for rich dashboarding and analytics.
-* **Legal Document Processing Pipeline (Past Project):** Developed a data pipeline to process Arabic legal documents into structured formats using an Medallion architecture, OCR, LLMs, MongoDB, and a FARM stack validation interface. Containerized with Docker.
+* **Real-Time Parking Grid @ STM:** Building CDC pipelines (Kafka, Debezium) feeding a PostgreSQL DB for live parking insights.
+* **Web App & API Development:** Crafting a FastAPI backend (React frontend on the horizon!).
+* **ETL & Analytics Orchestration:** Designing Airflow DAGs for data warehousing and dashboarding.
+* **Past Project Highlight:** Processed Arabic legal docs using OCR, LLMs, MongoDB, & a FARM stack interface (Dockerized).
 
 ---
 
 ### 🛠️ My Tech Stack & Tools
-
-Here's a glimpse of the technologies I work with:
 
 **Data Engineering & Big Data:**
 <p align="left">
@@ -44,7 +42,6 @@ Here's a glimpse of the technologies I work with:
   <a href="https://spark.apache.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachespark/apachespark-original-wordmark.svg" alt="spark" width="40" height="40"/></a>
   <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hadoop/hadoop-original-wordmark.svg" alt="hadoop" width="40" height="40"/></a>
   <img src="https://skillicons.dev/icons?i=anaconda" height="40" alt="anaconda logo"  />
-  <em>(Debezium - no official icon, but it's key!)</em>
 </p>
 
 **Backend Development & Databases:**
@@ -54,7 +51,6 @@ Here's a glimpse of the technologies I work with:
   <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a>
-  <a href="https://redis.io" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/></a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
   <a href="https://cassandra.apache.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cassandra/cassandra-original.svg" alt="cassandra" width="40" height="40"/></a>
   <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/></a>
@@ -80,7 +76,6 @@ Here's a glimpse of the technologies I work with:
 
 **ETL & Data Visualization:**
 <p align="left">
-  <a href="https://www.talend.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/develop/icons/talend/talend-original.svg" alt="talend" width="40" height="40"/></a>
   <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/develop/icons/powerbi/powerbi-original.svg" alt="powerbi" width="40" height="40"/></a>
   <a href="https://www.metabase.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/metabase/metabase-icon.svg" alt="metabase" width="40" height="40"/> </a>
   <a href="https://superset.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apachesuperset/apachesuperset-icon.svg" alt="superset" width="40" height="40"/> </a>
@@ -91,7 +86,6 @@ Here's a glimpse of the technologies I work with:
 <p align="left">
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/></a>
   <a href="https://prometheus.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="prometheus" width="40" height="40"/> </a>
-  <em>(ELK Stack - Elasticsearch, Logstash, Kibana)</em>
 </p>
 
 ---
@@ -105,18 +99,19 @@ Here's a glimpse of the technologies I work with:
 
 ---
 
-### 📈 My GitHub Stats & Activity
-
-*(Replace `YOUR_USERNAME` with your actual GitHub username in the URLs below)*
+### 📊 My GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&rank_icon=github" alt="Lokmane's GitHub Stats" />
+  <img src="https://metrics.lecoq.io/lokmane101?template=classic&config_timezone=Africa%2FCasablanca&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.header=1&base.activity=1&base.community=1&base.repositories=1&base.metadata=1&activity=1&activity.limit=5&activity.days=14&activity.filter=all&activity.visibility=all&activity.timestamps=true&repositories=1&repositories.featured=&repositories.limit=4&repositories.order=updated&community=1&community.contributors=0&community.discussion=0&community.reviews=0&community.issues=0&community.pull_requests=0&community.sponsors=0&community.stars=0&community.followers=0&config.timezone=Africa%2FCasablanca&config.display=large" alt="GitHub Metrics" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-profile-trophy.vercel.app/?username=lokmane101&theme=tokyonight&column=7&margin-w=15&margin-h=15" alt="GitHub Profile Trophies" />
 </p>
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=lokmane101&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lokmane101&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
 </p>
 
 *(Note: These stats are dynamically generated by third-party services.)*
@@ -124,8 +119,6 @@ Here's a glimpse of the technologies I work with:
 ---
 
 ### 💡 Projects & Demos
-
-Here are some of the projects I've worked on or am currently developing:
 
 1.  🚗 **Smart Parking Real-Time Network (Internship @ STM)**
     * **Description:** Building CDC pipelines (Kafka, Debezium) for a real-time parking data network.
@@ -169,13 +162,12 @@ I'm always open to discussing new projects, collaborations, or just chatting abo
   <a href="mailto:lokmane.engineer@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-PROFILE" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-PROFILE" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://twitter.com/lokmane_dev" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
-  <a href="https://github.com/YOUR_USERNAME" target="_blank">
+  <a href="https://github.com/lokmane101" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Github"/>
   </a>
 </p>
@@ -183,6 +175,5 @@ I'm always open to discussing new projects, collaborations, or just chatting abo
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=lokmane101&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
-
