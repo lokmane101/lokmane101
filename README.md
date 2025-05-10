@@ -37,15 +37,58 @@ I’m Lokmane, a data & software engineer on a mission to turn siloed city parki
 ---
 
 ## 💻 Tech Stack
+
 <div align="center">
-  <img src="https://img.shields.io/badge/Kafka-<3-yellow?style=flat&logo=apachekafka" alt="Kafka"/>
-  <img src="https://img.shields.io/badge/Debezium-CDC-orange?style=flat&logo=debezium" alt="Debezium"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-Ready-blue?style=flat&logo=postgresql" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/Python-🐍-green?style=flat&logo=python" alt="Python"/>
-  <img src="https://img.shields.io/badge/FastAPI-Fast-green?style=flat&logo=fastapi" alt="FastAPI"/>
-  <img src="https://img.shields.io/badge/Docker-Container-lightblue?style=flat&logo=docker" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Airflow-DAGs-blue?style=flat&logo=apacheairflow" alt="Airflow"/>
+
+### 🗄️ Databases  
+<p>
+  <img src="./icons/mysql.svg"   alt="MySQL"   width="40" height="40" />  
+  <img src="./icons/postgres.svg"alt="PostgreSQL" width="40" height="40" />  
+  <img src="./icons/mongodb.svg" alt="MongoDB"  width="40" height="40" />  
+  <img src="./icons/oracle.svg"  alt="Oracle"   width="40" height="40" />  
+  <img src="./icons/sqlserver.svg" alt="SQL Server" width="40" height="40" />  
+</p>
+
+### 🐳 Containerization & Orchestration  
+<p>
+  <img src="./icons/docker.svg"     alt="Docker"     width="40" height="40" />  
+  <img src="./icons/kubernetes.svg" alt="Kubernetes" width="40" height="40" />  
+</p>
+
+### ⚙️ Streaming & CDC  
+<p>
+  <img src="./icons/kafka.svg"    alt="Kafka"    width="40" height="40" />  
+  <img src="./icons/debezium.svg" alt="Debezium" width="40" height="40" />  
+</p>
+
+### 🛠️ Data Processing  
+<p>
+  <img src="./icons/spark.svg"  alt="Apache Spark"  width="40" height="40" />  
+  <img src="./icons/hadoop.svg" alt="Hadoop"         width="40" height="40" />  
+</p>
+
+### 📊 BI & Analytics  
+<p>
+  <img src="./icons/powerbi.svg" alt="Power BI" width="40" height="40" />  
+  <img src="./icons/metabase.svg" alt="Metabase" width="40" height="40" />  
+</p>
+
+### 🔧 Languages & Frameworks  
+<p>
+  <img src="./icons/python.svg"  alt="Python"   width="40" height="40" />  
+  <img src="./icons/fastapi.svg" alt="FastAPI"  width="40" height="40" />  
+  <img src="./icons/java.svg"    alt="Java"     width="40" height="40" />  
+</p>
+
+### ☁️ Cloud & DevOps  
+<p>
+  <img src="./icons/airflow.svg"    alt="Airflow"    width="40" height="40" />  
+  <img src="./icons/github-actions.svg" alt="GitHub Actions" width="40" height="40" />  
+  <img src="./icons/terraform.svg"  alt="Terraform"  width="40" height="40" />  
+</p>
+
 </div>
+
 
 ---
 
