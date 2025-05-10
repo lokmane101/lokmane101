@@ -5,13 +5,13 @@
 
 <div align="center">
   <!-- Socials & Shields -->
-  <a href="https://github.com/lokmane-dev">
+  <a href="https://github.com/lokmane101">
     <img src="https://img.shields.io/badge/GitHub-@lokmane--dev-181717?style=for-the-badge&logo=github" alt="GitHub"/>
   </a>
-  <a href="https://linkedin.com/in/your-linkedin">
+  <a href="https://www.linkedin.com/in/lokmane-akkouh">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
   </a>
-  <a href="mailto:lokmane.engineer@gmail.com">
+  <a href="mailto:lokmaneakkouh10@gmail.com">
     <img src="https://img.shields.io/badge/Email-Hit%20Me%20Up-red?style=for-the-badge&logo=gmail" alt="Email"/>
   </a>
 </div>
