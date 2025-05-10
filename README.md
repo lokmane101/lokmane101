@@ -6,7 +6,7 @@
 <div align="center">
   <!-- Socials & Shields -->
   <a href="https://github.com/lokmane101">
-    <img src="https://img.shields.io/badge/GitHub-@lokmane--dev-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-@lokmane101-181717?style=for-the-badge&logo=github" alt="GitHub"/>
   </a>
   <a href="https://www.linkedin.com/in/lokmane-akkouh">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
