@@ -32,7 +32,7 @@
 ## 🏗️ About Me
 > “Data pipelines should be like good coffee—strong, reliable, and capable of keeping you up at night.”
 
-I’m Lokmane, a data & software engineer on a mission to turn siloed city parking into live, actionable insights. Currently interning at STM (Tanger-Tétouan), I’m building the backbone for a real-time parking network using Kafka & Debezium. Outside of work, I’m either debugging Airflow DAGs or perfecting my homemade shakshuka.  
+I’m Lokmane, a data & software engineer on a mission to turn siloed city parking into live, actionable insights. Currently interning at STM (Tanger-Tétouan), I’m building the backbone for a real-time parking network using Kafka & Debezium. Outside of work, I’m either debugging Airflow DAGs or perfecting my homemade mint ATAY.  
 
 ---
 
