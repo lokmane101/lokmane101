@@ -70,7 +70,6 @@ I’m Lokmane, a data & software engineer on a mission to turn siloed city parki
 ### 📊 BI & Analytics  
 <p>
   <img src="./icons/powerbi.png"      alt="Power BI"     width="40" height="40" />  
-  <img src="./icons/metabase.png"     alt="Metabase"     width="40" height="40" />  
 </p>
 
 ### 🔧 Languages & Frameworks  
@@ -84,10 +83,7 @@ I’m Lokmane, a data & software engineer on a mission to turn siloed city parki
 <p>
   <img src="./icons/azure.png"            alt="Azure"            width="40" height="40" />  
   <img src="./icons/azure_devops.png"     alt="Azure DevOps"     width="40" height="40" />  
-  <img src="./icons/digitalocean.png"     alt="DigitalOcean"     width="40" height="40" />  
-  <img src="./icons/airflow.png"          alt="Airflow"          width="40" height="40" />  
-  <img src="./icons/github-actions.png"   alt="GitHub Actions"  width="40" height="40" />  
-  <img src="./icons/terraform.png"        alt="Terraform"        width="40" height="40" />  
+  <img src="./icons/airflow.png"          alt="Airflow"          width="40" height="40" /> 
 </p>
 
 </div>
