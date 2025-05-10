@@ -1,98 +1,124 @@
-<p align="center">
-  <!-- Static Hero Banner (you can replace with your own graphic) -->
-  <img src="./assets/hero-banner.png" alt="Lokmane Akkouh" width="800"/>
+<!-- Banner -->
+![Banner](https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif)
+
+# Hi there, I'm **Lokmane Akkouh** 👋  
+*Étudiant en Ingénierie des Données & Data Science*
+
+---
+
+> **"Data pipelines should be like good coffee—strong, reliable, and capable of keeping you up at night."**
+
+I engineer robust data solutions—from orchestrating real-time ingestion pipelines with **Kafka**, **Airflow**, and **Debezium** to building ML-powered applications that transform raw data into actionable insights. Whether I'm containerizing projects with **Docker** or fine-tuning ETL processes, I blend technology, creativity, and precision every step of the way.
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+### Programming Languages & Frameworks
+<p>
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" height="28" />
+  <img alt="Java" src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" height="28" />
+  <img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" height="28" />
+  <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" height="28" />
+  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" height="28" />
 </p>
 
-<p align="center">
-  <!-- GitHub Activity Heatmap -->
-  <img src="https://activity-graph.herokuapp.com/graph?username=lokmane101&theme=react-dark" alt="Contribution Graph" />
+### Data Engineering & DevOps
+<p>
+  <img alt="Apache Kafka" src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" height="28" />
+  <img alt="Airflow" src="https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white" height="28" />
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" height="28" />
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" height="28" />
+  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" height="28" />
 </p>
 
-<p align="center">
-  <!-- Dynamic Stats Cards -->
-  <img src="https://github-readme-stats.vercel.app/api?username=lokmane101&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lokmane101&theme=tokyonight" alt="Streak Stats" />
+### Big Data & Machine Learning
+<p>
+  <img alt="Apache Spark" src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=apache-spark&logoColor=white" height="28" />
+  <img alt="Hadoop" src="https://img.shields.io/badge/Hadoop-66CCFF?style=flat-square&logo=apachehadoop&logoColor=white" height="28" />
+  <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" height="28" />
+  <img alt="scikit-learn" src="https://img.shields.io/badge/scikit_learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" height="28" />
 </p>
 
 ---
 
-## 🏗️ About Me  
-I’m **Lokmane Akkouh**, final-year Data Engineering & Data Science student at ENSA Al Hoceima, interning at STM. I build **Kafka + Debezium** CDC pipelines, automate ETL with Airflow, and containerize solutions for a city-wide smart-parking network. Off-hours, I’m tweaking Spark jobs or perfecting my mint **atay**.
+## 🚀 Projects & Demos
+
+- **Pipeline d'Ingestion de Données pour des Applications d'IA**  
+  Leverages OCR & LLM models to process structured Arabic legal documents, stores results in MongoDB, and orchestrates workflows with Airflow & Docker.
+
+- **Analyse des Brevets Agricoles**  
+  Processes agricultural patent data with Spark, transforms it for analytical dashboards in Power BI, and uses PostgreSQL as a data warehouse.
+
+- **Modèle de Prédiction des Prix des Ordinateurs Portables**  
+  A machine learning project that predicts laptop prices from e-commerce data with real-time insights provided via a Streamlit interface.
+
+- **CI/CD Pipeline for Web Application Deployment**  
+  Deploys scalable React applications on Azure using Docker, Azure Container Registry, and Azure App Service.
+
+*Explore my repos for more details on these projects!*
 
 ---
 
-## 🚀 Tech & Tools  
-<div align="center" style="display:flex;flex-wrap:wrap;gap:20px;align-items:center;">
+## 📊 GitHub Stats & Achievements
 
-  <!-- Core Platforms -->
-  <a href="https://kafka.apache.org/"><img src="./assets/icons/kafka.png"    alt="Kafka"        height="48"/></a>
-  <a href="https://debezium.io/"><img src="./assets/icons/debezium.png" alt="Debezium"     height="48"/></a>
-  <a href="https://www.postgresql.org/"><img src="./assets/icons/postgresql.png" alt="PostgreSQL"   height="48"/></a>
-  <a href="https://fastapi.tiangolo.com/"><img src="./assets/icons/fastapi.png"  alt="FastAPI"      height="48"/></a>
-
-  <!-- Containers & Orchestration -->
-  <a href="https://www.docker.com/"><img src="./assets/icons/docker.png"      alt="Docker"       height="48"/></a>
-  <a href="https://kubernetes.io/"><img src="./assets/icons/kubernetes.png"  alt="Kubernetes"   height="48"/></a>
-
-  <!-- Cloud & DevOps -->
-  <a href="https://azure.microsoft.com/"><img src="./assets/icons/azure.png"        alt="Azure"        height="48"/></a>
-  <a href="https://dev.azure.com/"><img src="./assets/icons/azure_devops.png" alt="Azure DevOps"  height="48"/></a>
-  <a href="https://airflow.apache.org/"><img src="./assets/icons/airflow.png"     alt="Airflow"      height="48"/></a>
-
-  <!-- Big Data & ML -->
-  <a href="https://spark.apache.org/"><img src="./assets/icons/spark.png"       alt="Apache Spark" height="48"/></a>
-  <a href="https://hadoop.apache.org/"><img src="./assets/icons/hadoop.png"      alt="Hadoop"       height="48"/></a>
+<div align="center">
+  <!-- GitHub Stats Card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=lokmaneakkouh&show_icons=true&theme=radical" alt="Lokmane's GitHub Stats" />
   
-  <!-- Databases -->
-  <a href="https://www.mongodb.com/"><img src="./assets/icons/mongodb.png"     alt="MongoDB"      height="48"/></a>
-  <a href="https://www.mysql.com/"><img src="./assets/icons/mysql.png"         alt="MySQL"        height="48"/></a>
-  <a href="https://www.oracle.com/"><img src="./assets/icons/oracle.png"       alt="Oracle"       height="48"/></a>
-  <a href="https://www.microsoft.com/sql-server"><img src="./assets/icons/sqlserver.png" alt="SQL Server" height="48"/></a>
-
-  <!-- ETL & BI -->
-  <a href="https://talend.com/"><img src="./assets/icons/talend.png"       alt="Talend"       height="48"/></a>
-  <a href="https://powerbi.microsoft.com/"><img src="./assets/icons/powerbi.png" alt="Power BI"    height="48"/></a>
-
+  <!-- Top Languages Card -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lokmaneakkouh&layout=compact&theme=radical" alt="Top Languages" />
+  
+  <!-- GitHub Streak -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lokmaneakkouh&theme=radical" alt="GitHub Streak" />
+  
+  <!-- Visitor Count -->
+  <img src="https://profile-counter.glitch.me/lokmaneakkouh/count.svg" alt="Visitor Count" />
 </div>
 
 ---
 
-## 📝 My Skill Radar  
+## 🎓 Education & Certifications
+
+- **Ingénierie des Données & Data Science**  
+  ENSA Al Hoceima | 2020 – Present
+
+- **Certifications:**  
+  - Big Data with Spark and Hadoop Essentials  
+  - Amazon Web Services Cloud Concepts  
+  - Machine Learning with Apache Spark  
+  - Talend Data Integration Certification (In Preparation)
+
+---
+
+## 🌍 Languages & Soft Skills
+
+| **Language** | **Proficiency** |
+| ------------ | --------------- |
+| Arabe        | Native          |
+| Français     | Fluent          |
+| Anglais      | Fluent          |
+
+**Soft Skills:** Problem-solving, Time Management, Collaboration, Cultural Sensitivity, Teamwork, Analytical Thinking
+
+---
+
+## 📫 Get in Touch
+
+I'm always up for a chat—whether it's a challenging Kafka puzzle or sharing ideas over a cup of mint ATAY!
+
 <p align="center">
-  <img src="https://quickchart.io/chart?c={
-    type:'radar',
-    data:{
-      labels:['Kafka','Debezium','Airflow','Spark','Docker','FastAPI','PostgreSQL'],
-      datasets:[{label:'Proficiency',data:[85,80,75,70,80,85,90]}]
-    },
-    options:{scale:{ticks:{beginAtZero:true, max:100}}}
-  }" alt="Skill Radar Chart" width="400" />
+  <a href="mailto:lokmaneakkouh10@gmail.com">
+    <img src="https://img.shields.io/badge/Email-lokmaneakkouh10%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://linkedin.com/in/lokmane-akkouh">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="tel:+212642609327">
+    <img src="https://img.shields.io/badge/Phone-%2B212%20642609327-green?style=for-the-badge&logo=phone&logoColor=white" alt="Phone" />
+  </a>
 </p>
 
----
-
-## 📂 Featured Projects  
 <div align="center">
-  <a href="https://github.com/lokmane101/smart-parking" >
-    <img src="./assets/projects/smart-parking.png" alt="Smart Parking" width="220" />
-  </a>
-  <a href="https://github.com/lokmane101/cleanetlpipeline" >
-    <img src="./assets/projects/cleanetl.png" alt="CleanETL" width="220" />
-  </a>
-  <a href="https://github.com/lokmane101/dashboard-templates" >
-    <img src="./assets/projects/dashboards.png" alt="Dashboards" width="220" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=lokmaneakkouh&style=flat-square&color=blue" alt="profile views" />
 </div>
-
----
-
-## 📫 Let’s Connect  
-<div align="center">
-  <a href="https://linkedin.com/in/lokmane-akkouh"><img src="https://img.shields.io/badge/LinkedIn-Connect-%230A66C2?style=for-the-badge&logo=linkedin" /></a>
-  <a href="mailto:lokmaneakkouh10@gmail.com"><img src="https://img.shields.io/badge/Email-Hit%20Me%20Up-%23ff4d5a?style=for-the-badge&logo=gmail" /></a>
-  <a href="https://twitter.com/lokmane_dev"><img src="https://img.shields.io/badge/Twitter-@lokmane_dev-%231DA1F2?style=for-the-badge&logo=twitter" /></a>
-</div>
-
----
-
-<p align="center"><em>“If it’s not automated, it’s not optimized.”</em></p>
