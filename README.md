@@ -53,3 +53,12 @@ I engineer robust data solutions with **Kafka**, **Airflow**, and **Docker**, tr
   <a href="mailto:lokmaneakkouh10@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://linkedin.com/in/lokmane-akkouh"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
+
+<div align="center">
+  <img src="https://img.shields.io/github/followers/lokmane101?label=Followers&style=social" alt="GitHub Followers" />
+  <img src="https://komarev.com/ghpvc/?username=lokmane101&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Visitors" />
+</div>
+
+<p align="center">
+  <i>Thanks for visiting my profile, see you in the world of data!</i>
+</p>
