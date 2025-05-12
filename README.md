@@ -1,8 +1,8 @@
 <!-- Banner -->
-![Banner](https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif)
+![Banner](https://raw.githubusercontent.com/sindresorhus/awesome/main/media/logo.svg)
 
 # Hi there, I'm **Lokmane Akkouh** 👋  
-*Data Engineer & ML Enthusiast*
+*Data & Software Engineer*
 
 > **"Data pipelines should be like good coffee—strong, reliable, and capable of keeping you up at night."**
 
@@ -21,7 +21,6 @@ I engineer robust data solutions with **Kafka**, **Airflow**, and **Docker**, tr
   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" height="24" />
   <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" height="24" />
   <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" height="24" />
-  <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" height="24" />
   <img alt="Power BI" src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" height="24" />
 </p>
 
