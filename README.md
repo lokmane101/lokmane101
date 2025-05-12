@@ -88,23 +88,23 @@ I engineer robust data solutions—from orchestrating real-time ingestion pipeli
 
 <div align="center">
   <!-- GitHub Stats Card -->
-  <a href="https://github.com/lokmaneakkouh">
-    <img src="https://github-readme-stats.vercel.app/api?username=lokmaneakkouh&show_icons=true&theme=radical" alt="Lokmane's GitHub Stats" />
+  <a href="https://github.com/lokmane101">
+    <img src="https://github-readme-stats.vercel.app/api?username=lokmane101&show_icons=true&theme=radical" alt="Lokmane's GitHub Stats" />
   </a>
   
   <!-- Top Languages Card -->
-  <a href="https://github.com/lokmaneakkouh">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lokmaneakkouh&layout=compact&theme=radical" alt="Top Languages" />
+  <a href="https://github.com/lokmane101">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lokmane101&layout=compact&theme=radical" alt="Top Languages" />
   </a>
   
   <!-- GitHub Streak -->
-  <a href="https://github.com/lokmaneakkouh">
-    <img src="https://streak-stats.demolab.com/?user=lokmaneakkouh&theme=radical" alt="GitHub Streak" />
+  <a href="https://github.com/lokmane101">
+    <img src="https://streak-stats.demolab.com/?user=lokmane101&theme=radical" alt="GitHub Streak" />
   </a>
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=lokmaneakkouh&style=flat-square&color=blue" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=lokmane101&style=flat-square&color=blue" alt="profile views" />
 </div>
 
 ---
