@@ -54,10 +54,10 @@ I engineer robust data solutions with **Kafka**, **Airflow**, and **Docker**, tr
   <a href="https://linkedin.com/in/lokmane-akkouh"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=lokmane101.lokmane101&format=true&left_color=black&right_color=blueviolet&left_text=Visitors" alt="Profile Visitors" />
-</p>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=8A2BE2&center=true&vCenter=true&width=435&lines=Thanks+for+visiting+my+profile;Profile+Views%3A+%F0%9F%94%8D+%F0%9F%91%80" alt="Profile Visitors" />
+</div>
 
-<p align="center">
-  <i>Thanks for visiting my profile, see you in the world of data!</i>
-</p>
+<div align="center">
+  <img src="https://profile-counter.glitch.me/lokmane101/count.svg" alt="Visitor Count" style="border-radius:10px; box-shadow: 0 4px 8px rgba(138, 43, 226, 0.6);" />
+</div>
