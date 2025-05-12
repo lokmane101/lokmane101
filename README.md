@@ -89,17 +89,17 @@ I engineer robust data solutions—from orchestrating real-time ingestion pipeli
 <div align="center">
   <!-- GitHub Stats Card -->
   <a href="https://github.com/lokmaneakkouh">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=lokmaneakkouh&show_icons=true&theme=radical" alt="Lokmane's GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=lokmaneakkouh&show_icons=true&theme=radical" alt="Lokmane's GitHub Stats" />
   </a>
   
   <!-- Top Languages Card -->
   <a href="https://github.com/lokmaneakkouh">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=lokmaneakkouh&layout=compact&theme=radical" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lokmaneakkouh&layout=compact&theme=radical" alt="Top Languages" />
   </a>
   
   <!-- GitHub Streak -->
   <a href="https://github.com/lokmaneakkouh">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=lokmaneakkouh&theme=radical" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com/?user=lokmaneakkouh&theme=radical" alt="GitHub Streak" />
   </a>
 </div>
 
