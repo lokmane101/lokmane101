@@ -1,0 +1,48 @@
+{
+  "owner": "lokmane101",
+  "collectedAt": "2026-11-05",
+  "source": "https://api.github.com/users/lokmane101/repos",
+  "method": "Public non-fork repositories, excluding the profile repository; one count per repository, grouped by GitHub primary language. Not a skill rating.",
+  "repositories": [
+    {
+      "name": "CI-CD-pipeline-application-on-azure-DevOps",
+      "url": "https://github.com/lokmane101/CI-CD-pipeline-application-on-azure-DevOps",
+      "primaryLanguage": "TypeScript"
+    },
+    {
+      "name": "GitHubHomePage",
+      "url": "https://github.com/lokmane101/GitHubHomePage",
+      "primaryLanguage": "CSS"
+    },
+    {
+      "name": "laptop-price-prediction",
+      "url": "https://github.com/lokmane101/laptop-price-prediction",
+      "primaryLanguage": "Jupyter Notebook"
+    },
+    {
+      "name": "PatentAnalysis",
+      "url": "https://github.com/lokmane101/PatentAnalysis",
+      "primaryLanguage": "JavaScript"
+    },
+    {
+      "name": "SchoolStudentManagementApp",
+      "url": "https://github.com/lokmane101/SchoolStudentManagementApp",
+      "primaryLanguage": "Python"
+    },
+    {
+      "name": "SpringBootExamManagamentApp",
+      "url": "https://github.com/lokmane101/SpringBootExamManagamentApp",
+      "primaryLanguage": "Java"
+    },
+    {
+      "name": "SRCNN",
+      "url": "https://github.com/lokmane101/SRCNN",
+      "primaryLanguage": "Jupyter Notebook"
+    },
+    {
+      "name": "Tkinter_Project",
+      "url": "https://github.com/lokmane101/Tkinter_Project",
+      "primaryLanguage": "Python"
+    }
+  ]
+}
