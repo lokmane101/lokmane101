@@ -9,8 +9,8 @@ This is a GitHub profile README, with an English landing page and a full French 
 - Dark diagram surface: `#173D36`; nodes: `#244F44`; focus: `#D5EDE4`.
 - Blue `#397CAB` provides a secondary color in the repository chart.
 - Segoe UI with Arial/sans-serif fallbacks; clear hierarchy and left-aligned prose.
-- The header combines the supplied cutout portrait with curved data paths and an ingest/transform/serve sequence. Small packets animate continuously; the portrait and text stay still.
-- The user-selected source is `assets/PROFIL_new.png`, preserved unchanged. `assets/portrait-cutout.webp` is a 760px-high delivery export (quality 92, transparency preserved), embedded inside the self-contained SVG banners. Regenerate that WebP if replacing the source photo, then run the brand script. The former photo remains in the asset folder but is no longer displayed.
+- The header illustrates a data platform through three isometric layers, a central processing block, source documents, storage, analytics and API endpoints. Small packets animate along the connectors; the geometry and text stay still. This is an illustration, not a measured performance chart or a project architecture claim.
+- No portrait is displayed in either README or its banner. The previously supplied image files are retained as source assets, but the brand generator does not read or embed them. The original logo remains in the header.
 - The architecture connectors also animate to make the flow direction visible. The README selects separate still SVGs when `prefers-reduced-motion: reduce` is active, with mobile-specific variants too. Animated SVGs also include an internal media-query fallback. The design needs no browser JavaScript or third-party animation server.
 - Experience, education and certification details come from the current public portfolio. No artificial qualifications, achievements or proficiency scores have been added.
 - Each full-width diagram has a separate mobile composition. Plain Markdown keeps the profile usable without custom CSS or scripts.
@@ -18,7 +18,7 @@ This is a GitHub profile README, with an English landing page and a full French 
 ## Structure
 
 ```text
-Animated banner with supplied cutout + contact / language links
+Animated vector data illustration + contact / language links
 Introduction + in-page section navigation
 Professional experience: SOCOTEC, STM Group, Shiftbricks
 Selected projects + PatentAnalysis architecture

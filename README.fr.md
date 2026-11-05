@@ -2,7 +2,7 @@
   <source media="(prefers-reduced-motion: reduce) and (max-width: 600px)" srcset="assets/hero-fr-mobile-static.svg">
   <source media="(prefers-reduced-motion: reduce)" srcset="assets/hero-fr-static.svg">
   <source media="(max-width: 600px)" srcset="assets/hero-fr-mobile.svg">
-  <img src="assets/hero-fr.svg" width="1200" alt="Lokmane Akkouh — Data & AI Engineer. Portrait et flux de données animés. De la donnée aux solutions.">
+  <img src="assets/hero-fr.svg" width="1200" alt="Lokmane Akkouh — Data & AI Engineer. Architecture data vectorielle animée. De la donnée aux solutions.">
 </picture>
 
 <p align="center">
