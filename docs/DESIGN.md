@@ -9,15 +9,17 @@ This is a GitHub profile README, with an English landing page and a full French 
 - Dark diagram surface: `#173D36`; nodes: `#244F44`; focus: `#D5EDE4`.
 - Blue `#397CAB` provides a secondary color in the repository chart.
 - Segoe UI with Arial/sans-serif fallbacks; clear hierarchy and left-aligned prose.
-- The header expresses a data engineer's work through connected source, transformation and delivery nodes.
-- Original logo and portrait are included unchanged. Experience, education and certification details come from the current public portfolio. No artificial qualifications, achievements or proficiency scores have been added.
+- The header combines the supplied cutout portrait with curved data paths and an ingest/transform/serve sequence. Small packets animate continuously; the portrait and text stay still.
+- The user-selected source is `assets/PROFIL_new.png`, preserved unchanged. `assets/portrait-cutout.webp` is a 760px-high delivery export (quality 92, transparency preserved), embedded inside the self-contained SVG banners. Regenerate that WebP if replacing the source photo, then run the brand script. The former photo remains in the asset folder but is no longer displayed.
+- The architecture connectors also animate to make the flow direction visible. The README selects separate still SVGs when `prefers-reduced-motion: reduce` is active, with mobile-specific variants too. Animated SVGs also include an internal media-query fallback. The design needs no browser JavaScript or third-party animation server.
+- Experience, education and certification details come from the current public portfolio. No artificial qualifications, achievements or proficiency scores have been added.
 - Each full-width diagram has a separate mobile composition. Plain Markdown keeps the profile usable without custom CSS or scripts.
 
 ## Structure
 
 ```text
-Brand banner + contact / language links
-Introduction + supplied portrait
+Animated banner with supplied cutout + contact / language links
+Introduction + in-page section navigation
 Professional experience: SOCOTEC, STM Group, Shiftbricks
 Selected projects + PatentAnalysis architecture
 Additional projects + document intelligence overview

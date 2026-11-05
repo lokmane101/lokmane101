@@ -1,6 +1,8 @@
 <picture>
+  <source media="(prefers-reduced-motion: reduce) and (max-width: 600px)" srcset="assets/hero-fr-mobile-static.svg">
+  <source media="(prefers-reduced-motion: reduce)" srcset="assets/hero-fr-static.svg">
   <source media="(max-width: 600px)" srcset="assets/hero-fr-mobile.svg">
-  <img src="assets/hero-fr.svg" width="1200" alt="Lokmane Akkouh — Data & AI Engineer. De la donnée aux solutions.">
+  <img src="assets/hero-fr.svg" width="1200" alt="Lokmane Akkouh — Data & AI Engineer. Portrait et flux de données animés. De la donnée aux solutions.">
 </picture>
 
 <p align="center">
@@ -13,8 +15,6 @@
 
 # Bonjour, moi c'est Lokmane.
 
-<img align="right" src="assets/lokmane-akkouh.jpg" width="140" alt="Portrait de Lokmane Akkouh">
-
 **Data & AI Engineer, basé à Lyon.**<br>
 **[Databricks Certified Data Engineer Associate](https://credentials.databricks.com/4ef911d6-f5a3-43ed-bfc5-15ab97abac23)**
 
@@ -26,7 +26,12 @@ Ce qui m'intéresse : comprendre la source, construire le pipeline et aboutir à
 - **Développement :** backends Python et Java, API et applications web.
 - **IA appliquée :** régression, super-résolution d'images et traitements OCR/NLP.
 
-<br clear="both">
+<p>
+  <a href="#expérience-professionnelle">Expérience</a> &nbsp; / &nbsp;
+  <a href="#sélection-de-projets">Projets</a> &nbsp; / &nbsp;
+  <a href="#mes-outils">Outils</a> &nbsp; / &nbsp;
+  <a href="#formation-et-certification">Formation et certification</a>
+</p>
 
 ## Expérience professionnelle
 
@@ -63,6 +68,8 @@ Un projet collectif qui rassemble des données issues de **l'USPTO, Google Paten
 
 <a href="https://github.com/lokmane101/PatentAnalysis">
   <picture>
+    <source media="(prefers-reduced-motion: reduce) and (max-width: 600px)" srcset="assets/pipeline-fr-mobile-static.svg">
+    <source media="(prefers-reduced-motion: reduce)" srcset="assets/pipeline-fr-static.svg">
     <source media="(max-width: 600px)" srcset="assets/pipeline-fr-mobile.svg">
     <img src="assets/pipeline-fr.svg" width="1200" alt="Sources de brevets → MongoDB Atlas → PySpark → PostgreSQL → Power BI et Flask. Vue d'ensemble du projet collectif PatentAnalysis.">
   </picture>
